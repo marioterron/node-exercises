@@ -43,7 +43,7 @@ Hint: Yo u need npm module - http
 
 Set the port of the connection using an environment variable PORT
 
-- [Code](https://github.com/MarioTerron/node-exercises/tree/master/01-connection-to-the.server/app.js)
+- [Code](https://github.com/MarioTerron/node-exercises/tree/master/01-connection-to-the-server/app.js)
 
 
 ## 2. Show Content
@@ -54,7 +54,7 @@ Write a node program that read a file (passed as parameter) in local machine and
 
 Hint: You need npm module - `fs`
 
-- [Code](https://github.com/MarioTerron/node-exercises/tree/master/02-show-conten/app.js)
+- [Code](https://github.com/MarioTerron/node-exercises/tree/master/02-show-content/app.js)
 
 
 ## 3. HTML Code
@@ -144,7 +144,8 @@ https://nodejs.org/api/all.html#fs_fs_readfilesync_file_options
 - [Code](https://github.com/MarioTerron/node-exercises/tree/master/07-parse-external-webpage/app.js)
 
 
-##8. Show Hour
+## 8. Show hour
+
 Write a node.JS program that shows you the local hour of server.
 
 _Hint: You need npm module -> strftime_
@@ -152,7 +153,7 @@ _Hint: You need npm module -> strftime_
 - [Code](https://github.com/MarioTerron/node-exercises/tree/master/08-show-hour/app.js)
 
 
-##9. Compare values
+## 9. Compare values
 
 Write a node.JS program that search information in .txt file and returns you how much coincidences find.
 
