@@ -1,6 +1,6 @@
 # Node Exercises
 
-This repository contains JS exercises made in the Skylab Coders Academy Full Stack Web Development Bootcamp.
+This repository contains NodeJS exercises made in the Skylab Coders Academy Full Stack Web Development Bootcamp.
 
 ## 0. Calculator Node
 
