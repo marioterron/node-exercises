@@ -30,7 +30,7 @@ Install the module `moment` and use it to show the current time in this way:
 The sum of 3 & 7 is: 10
 The multiplication of 3 & 7 is: 21`
 
-- [Code](https://github.com/MarioTerron/javascript-exercises/blob/master/01-first-steps/js/integer-numbers-range.js)
+- [Code](https://github.com/MarioTerron/node-exercises/tree/master/00-calculator-module/app.js)
 
 
 ## 1. Connection to the server
@@ -43,7 +43,7 @@ Hint: Yo u need npm module - http
 
 Set the port of the connection using an environment variable PORT
 
-- [Code](https://github.com/MarioTerron/javascript-exercises/blob/master/01-first-steps/js/integer-numbers-range.js)
+- [Code](https://github.com/MarioTerron/node-exercises/tree/master/01-connection-to-the.server/app.js)
 
 
 ## 2. Show Content
@@ -54,7 +54,7 @@ Write a node program that read a file (passed as parameter) in local machine and
 
 Hint: You need npm module - `fs`
 
-- [Code](https://github.com/MarioTerron/javascript-exercises/blob/master/01-first-steps/js/integer-numbers-range.js)
+- [Code](https://github.com/MarioTerron/node-exercises/tree/master/02-show-conten/app.js)
 
 
 ## 3. HTML Code
@@ -63,7 +63,7 @@ Write a node.JS program that read and shows in the console the html code of one 
 
 _Hint: You need npm module -> [`request`](https://github.com/request/request)_
 
-- [Code](https://github.com/MarioTerron/javascript-exercises/blob/master/01-first-steps/js/integer-numbers-range.js)
+- [Code](https://github.com/MarioTerron/node-exercises/tree/master/03-html-code/app.js)
 
 
 ##4. File list
@@ -84,7 +84,7 @@ Write a node.JS program that list the content of the current directory indicatin
 
 _Hint: You need `fs.readdirSync`, `fs.lstatSync` and `isDirectory()`_
 
-- [Code](https://github.com/MarioTerron/javascript-exercises/blob/master/01-first-steps/js/integer-numbers-range.js)
+- [Code](https://github.com/MarioTerron/node-exercises/tree/master/04-file-list/app.js)
 
 
 ## 5. Writing on txt
@@ -113,7 +113,7 @@ Improve the previous exercise to also read and shows in the console the content 
     $ cat mySuperText.txt 
     it's a long way to the top...
    
-- [Code](https://github.com/MarioTerron/javascript-exercises/blob/master/01-first-steps/js/integer-numbers-range.js)
+- [Code](https://github.com/MarioTerron/node-exercises/tree/master/05-writting-on-text/app.js)
  
     
 ## 6. Processing values
@@ -122,16 +122,7 @@ Write a node program that process local txt and return values as a Array.
 
 _Hint: You need npm module -> concat-stream_
 
-- [Code](https://github.com/MarioTerron/javascript-exercises/blob/master/01-first-steps/js/integer-numbers-range.js)
-
-
-## 6. Processing values
-
-Write a node program that process local txt and return values as a Array.
-
-_Hint: You need npm module -> concat-stream_
-
-- [Code](https://github.com/MarioTerron/javascript-exercises/blob/master/01-first-steps/js/integer-numbers-range.js)
+- [Code](https://github.com/MarioTerron/node-exercises/tree/master/06-processing-values/app.js)
 
 
 ## 7. Parse external webpage (difficult!!)
@@ -150,7 +141,7 @@ The file was saved!
 https://nodejs.org/api/all.html#fs_fs_readfile_file_options_callback
 https://nodejs.org/api/all.html#fs_fs_readfilesync_file_options
 
-- [Code](https://github.com/MarioTerron/javascript-exercises/blob/master/01-first-steps/js/integer-numbers-range.js)
+- [Code](https://github.com/MarioTerron/node-exercises/tree/master/07-parse-external-webpage/app.js)
 
 
 ##8. Show Hour
@@ -158,7 +149,7 @@ Write a node.JS program that shows you the local hour of server.
 
 _Hint: You need npm module -> strftime_
 
-- [Code](https://github.com/MarioTerron/javascript-exercises/blob/master/01-first-steps/js/integer-numbers-range.js)
+- [Code](https://github.com/MarioTerron/node-exercises/tree/master/08-show-hour/app.js)
 
 
 ##9. Compare values
@@ -169,10 +160,10 @@ If you search about "John", and in your txt files are 2 John, should return 2
 
 Hint: You can try save all data in one array and compare with search..
 
-- [Code](https://github.com/MarioTerron/javascript-exercises/blob/master/01-first-steps/js/integer-numbers-range.js)
+- [Code](https://github.com/MarioTerron/node-exercises/tree/master/09-compare-values/app.js)
 
 
 ## 10. Saving
 Write a node.JS program that sum all integers saved in other txt file.
 
-- [Code](https://github.com/MarioTerron/javascript-exercises/blob/master/01-first-steps/js/integer-numbers-range.js)
+- [Code](https://github.com/MarioTerron/node-exercises/tree/master/10-saving/app.js)
